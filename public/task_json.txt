@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "depth": 1,
+    "numchild": 3,
+    "category_image": "https://helloworldbackey.storage.yandexcloud.net/catalog/category/logo_broshi.png",
+    "logo_image": "https://helloworldbackey.storage.yandexcloud.net/catalog/logo/broshi.png",
+    "menu_image": "https://helloworldbackey.storage.yandexcloud.net/catalog/menu/brosh.jpg",
+    "separate_menu": false,
+    "c_images": 0,
+    "product_rep_1_id": 321,
+    "product_rep_2_id": 313,
+    "c_views": 2,
+    "og": null,
+    "twitter": null,
+    "locale": {
+      "en": {},
+      "ru": {
+        "id": 1,
+        "cg_name": "Броши",
+        "cg_description": "Броши общая категория.",
+        "cg_title": "",
+        "cg_slug": "broshi",
+        "meta_description": "",
+        "meta_keywords": "",
+        "link": "broshi/"
+      },
+      "fr": {}
+    },
+    "search_target": true,
+    "path_to_top": [],
+    "childs": [
+      {
+        "id": 10,
+        "depth": 2,
+        "numchild": 0,
+        "category_image": null,
+        "logo_image": null,
+        "menu_image": "https://helloworldbackey.storage.yandexcloud.net/catalog/menu/broshi_gari.jpg",
+        "separate_menu": false,
+        "c_images": 0,
+        "product_rep_1_id": 79,
+        "product_rep_2_id": 89,
+        "c_views": 4,
+        "og": [
+          {
+            "id": 1,
+            "cat_id": 10,
+            "og_property_name": "og key",
+            "locale": {
+              "en": {},
+              "ru": {
+                "og_content_value": "og value"
+              },
+              "fr": {}
+            }
+          }
+        ],
+        "twitter": [
+          {
+            "id": 1,
+            "cat_id": 10,
+            "extra_meta_name": "twitter key",
+            "locale": {
+              "en": {},
+              "ru": {
+                "extra_meta_content": "twitter value"
+              },
+              "fr": {}
+            }
+          }
+        ],
+        "locale": {
+          "en": {},
+          "ru": {
+            "id": 10,
+            "cg_name": "Гарри поттер",
+            "cg_description": "броши на основе произведений гарри поттера",
+            "cg_title": "",
+            "cg_slug": "garri-potter",
+            "meta_description": "",
+            "meta_keywords": "",
+            "link": "broshi/garri-potter/"
+          },
+          "fr": {}
+        },
+        "path_to_top": [
+          1
+        ]
+      }
+    ]
+  }
+]
